@@ -1,0 +1,11 @@
+{
+  "name": "random-office-quote",
+  "bin": {
+    "roq": "./random_quote.js"
+  },
+  "devDependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "puppeteer": "^12.0.1"
+  }
+}
