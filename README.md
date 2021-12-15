@@ -9,3 +9,5 @@ Highly reccomended to use cowsay with this package: `roq | cowsay`
 Put in `~/.bashrc` for maximum effect.
 
 ![sc](screenshot.png)
+
+## Special thanks to https://www.officequotes.net/!
