@@ -1,5 +1,6 @@
 {
   "name": "random-office-quote",
+  "version": "1.0.0",
   "bin": {
     "roq": "./random_quote.js"
   },
